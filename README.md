@@ -10,7 +10,7 @@ Contiene los elementos necesarios para detectar y recortar automáticamente call
 ---
 
 ### 📂 `Extracción_vectores_características`
-Incluye el procesamiento de imágenes para obtener representaciones numéricas de cada callo:
+Incluye el procesamiento de imágenes para obtener el vector de características de cada imagen de callo:
 
 - `Extraccion_vectores_normalizacion.py`: script para extraer características de:
   - Color
